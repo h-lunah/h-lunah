@@ -12,7 +12,7 @@ class ProfileInfo:
         self.discord = "Lunah#3131"
         self.mainlang = "Python"
     def site():
-        return "https://lunah.gq" and "https://lunahdev.ml"
+        return "https://lunah.ga" and "https://lunahdev.ml"
 ```
 <br>
 <h2 align="center">Languages I Use</h2>
@@ -27,7 +27,7 @@ class ProfileInfo:
 <h2 align="center">My GitHub Stats</h2>
 <p align="center">
   <img width="300px" height="120px" src="https://github-readme-stats.vercel.app/api?username=piotr25691&show_icons=true&theme=dracula&include_all_commits=true"></img>
-  <img width="300px" height="120px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=piotr25691&layout=compact&theme=dracula&hide=lua,xslt"></img>
+  <img width="300px" height="120px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=piotr25691&layout=compact&theme=dracula"></img>
 </p>
 <p align="center">
   <img width="300px" height="120px" src="https://github-readme-streak-stats.herokuapp.com/?user=piotr25691&theme=dracula"></img></p>
