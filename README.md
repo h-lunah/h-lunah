@@ -15,7 +15,15 @@ class ProfileInfo:
         return "https://lunah.ga" and "https://lunahdev.ml"
 ```
 <br>
-<h2 align="center">Languages I Use</h2>
+<p align="center">
+  <kbd>
+    <img width="1000px" src="https://cdn.discordapp.com/attachments/687694909423091806/780799991613489182/lunahub_partnerbanner.gif"></img>
+  </kbd>
+</p>
+<br>
+<details>
+<summary>Languages I Use</summary>
+<br>
 <p align="center">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/ProgrammingLanguages/python.svg" height="30" width="40"/>
   <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg" height="30" width="40"/>*
@@ -23,8 +31,11 @@ class ProfileInfo:
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/FrontendDevelopment/html.svg" height="30" width="40"/>
   <p align="center">*StepMania themes only</p>
 </p>
+</details>
 <br>
-<h2 align="center">My GitHub Stats</h2>
+<details>
+<summary>My GitHub Stats</summary>
+<br>
 <p align="center">
   <img width="300px" height="120px" src="https://github-readme-stats.vercel.app/api?username=piotr25691&show_icons=true&theme=dracula&include_all_commits=true"></img>
   <img width="300px" height="120px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=piotr25691&layout=compact&theme=dracula"></img>
@@ -32,18 +43,14 @@ class ProfileInfo:
 <p align="center">
   <img width="300px" height="120px" src="https://github-readme-streak-stats.herokuapp.com/?user=piotr25691&theme=dracula"></img></p>
 </p>
+</details>
 <br>
-<p align="center">
-  <kbd>
-    <img width="1000px" src="https://cdn.discordapp.com/attachments/687694909423091806/780799991613489182/lunahub_partnerbanner.gif"></img>
-  </kbd>
-</p>
-<h2 align="center">My Social Media</h2>
+<details>
+<summary>My Social Media</summary>
 <br>
 <p align="center">
   <a href="https://www.youtube.com/channel/UC_5QpuyeRp6Ymcjl9PzhO_g" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="30" width="40" /></a>
   <a href="https://dsc.gg/lunahub" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" height="30" width="40" /></a>
 </p>
 <br>
-
-
+</details>
