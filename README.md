@@ -12,7 +12,7 @@ class ProfileInfo:
         self.discord = "Lunah#3131"
         self.mainlang = "Python"
     def site():
-        return "https://lunah.ga" and "https://lunahdev.ml"
+        return "https://lunah.ga"
 ```
 <br>
 <p align="center">
