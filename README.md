@@ -17,7 +17,7 @@ class ProfileInfo:
 <br>
 <p align="center">
   <kbd>
-    <img width="1000px" src="https://cdn.discordapp.com/attachments/687694909423091806/780799991613489182/lunahub_partnerbanner.gif"></img>
+    <img src="https://cdn.discordapp.com/attachments/687694909423091806/780799991613489182/lunahub_partnerbanner.gif"></img>
   </kbd>
 </p>
 <br>
