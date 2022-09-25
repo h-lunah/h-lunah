@@ -54,3 +54,10 @@ class ProfileInfo:
 </p>
 <br>
 </details>
+<br>
+<details>
+    <summary>Discord Activity</summary>
+    <a href="https://discord.com/users/603635602809946113">
+      <img src="https://lanyard.cnrad.dev/api/603635602809946113"></img>
+    </a>
+</details>
