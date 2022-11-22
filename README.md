@@ -18,15 +18,18 @@ class ProfileInfo:
     def project():
         return "https://lunah.is-a.dev"
 ```
+
 <br>
 <p align="center">
   <kbd>
     <img src="https://cdn.discordapp.com/attachments/687694909423091806/780799991613489182/lunahub_partnerbanner.gif"></img>
   </kbd>
 </p>
+
 <br>
 <details>
 <summary>Languages I Use</summary>
+  
 <br>
 <p align="center">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/ProgrammingLanguages/python.svg" height="30" width="40"/>
@@ -36,9 +39,11 @@ class ProfileInfo:
   <p align="center">*StepMania themes only</p>
 </p>
 </details>
+
 <br>
 <details>
 <summary>My GitHub Stats</summary>
+  
 <br>
 <p align="center">
   <img width="300px" height="120px" src="https://github-readme-stats.vercel.app/api?username=piotr25691&show_icons=true&theme=dracula&include_all_commits=true"></img>
@@ -48,17 +53,21 @@ class ProfileInfo:
   <img width="300px" height="120px" src="https://github-readme-streak-stats.herokuapp.com/?user=piotr25691&theme=dracula"></img></p>
 </p>
 </details>
+
 <br>
 <details>
 <summary>My Social Media</summary>
+  
 <br>
 <p align="center">
   <a href="https://www.youtube.com/@_lun4r_" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg" height="30" width="40" /></a>
   &nbsp;
   <a href="https://dsc.gg/lunahub" target="blank"><img align="center" src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a69f118df70ad7828d4_icon_clyde_blurple_RGB.svg" height="30" width="40" /></a>
 </p>
+  
 <br>
 </details>
+
 <br>
 <details>
     <summary>Discord Activity</summary>
