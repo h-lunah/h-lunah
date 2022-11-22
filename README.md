@@ -49,8 +49,9 @@ class ProfileInfo:
 <summary>My Social Media</summary>
 <br>
 <p align="center">
-  <a href="https://www.youtube.com/channel/UC_5QpuyeRp6Ymcjl9PzhO_g" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="30" width="40" /></a>
-  <a href="https://dsc.gg/lunahub" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" height="30" width="40" /></a>
+  <a href="https://www.youtube.com/@_lun4r_" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg" height="30" width="40" /></a>
+  &nbsp;
+  <a href="https://dsc.gg/lunahub" target="blank"><img align="center" src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a69f118df70ad7828d4_icon_clyde_blurple_RGB.svg" height="30" width="40" /></a>
 </p>
 <br>
 </details>
