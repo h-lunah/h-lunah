@@ -11,8 +11,12 @@ class ProfileInfo:
         self.hobby = "Coding & Development"
         self.discord = "Lunah#3131"
         self.mainlang = "Python"
+        
     def site():
         return "https://lunah.ga"
+        
+    def project():
+        return "https://lunah.is-a.dev"
 ```
 <br>
 <p align="center">
