@@ -22,7 +22,7 @@ class ProfileInfo:
 <br>
 <p align="center">
   <kbd>
-    <img src="https://cdn.discordapp.com/attachments/687694909423091806/780799991613489182/lunahub_partnerbanner.gif"></img>
+    <img src="https://i.imgur.com/X2mUIut.gif"></img>
   </kbd>
 </p>
 
@@ -34,8 +34,9 @@ class ProfileInfo:
 <p align="center">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/ProgrammingLanguages/python.svg" height="30" width="40"/>
   <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg" height="30" width="40"/>*
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Database/mongodb.svg" height="30" width="40"/>
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/FrontendDevelopment/html.svg" height="30" width="40"/>
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/FrontendDevelopment/css.svg" height="30" width="40"/>
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/ProgrammingLanguages/javascript.svg" height="30" width="40"/>
   <p align="center">*StepMania themes only</p>
 </p>
 </details>
