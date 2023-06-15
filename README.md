@@ -9,7 +9,7 @@ class ProfileInfo:
         self.age = 20
         self.location = "Poland"
         self.hobby = "Coding & Development"
-        self.discord = "Lunah#3131"
+        self.discord = "@iilun4h"
         self.mainlang = "Python"
         
     def site():
