@@ -13,7 +13,7 @@ class ProfileInfo:
         self.mainlang = "Python"
         
     def site():
-        return "https://lunah.ga"
+        return "https://lunah.online"
         
     def project():
         return "https://lunah.is-a.dev"
