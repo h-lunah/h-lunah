@@ -6,10 +6,10 @@
 class ProfileInfo:
     def __init__(self):
         self.name = "Piotr"
-        self.age = 20
+        self.age = 21
         self.location = "Poland"
         self.hobby = "Coding & Development"
-        self.discord = "@iilun4h"
+        self.discord = "@illun4h"
         self.mainlang = "Python"
         
     def site():
