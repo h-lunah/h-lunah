@@ -43,7 +43,7 @@ class ProfileInfo:
     <summary>My GitHub Stats</summary>
     <br>
     <p align="center">
-        <img width="300px" height="120px" src="https://github-readme-stats.vercel.app/api?username=piotr25691&show_icons=true&theme=dracula&include_all_commits=true"></img>
+        <img width="300px" height="120px" src="https://github-readme-stats.vercel.app/api?username=piotr25691&show_icons=true&theme=dracula"></img>
         <img width="300px" height="120px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=piotr25691&layout=compact&theme=dracula"></img>
     </p>
     <p align="center">
