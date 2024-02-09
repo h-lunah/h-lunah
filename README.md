@@ -8,9 +8,10 @@ class ProfileInfo:
         self.name = "Piotr"
         self.age = 21
         self.location = "Poland"
-        self.hobby = "Coding & Development"
+        self.hobby = ["Coding", "Development"]
         self.discord = "@illun4h"
         self.mainlang = "Python"
+        self.nicks = ["luna", "lunah", "lunar", "lun4h", "lun4r", "lun4"]  # any capitalization, not just lowercase
         
     def site():
         return "https://lunah.online"
