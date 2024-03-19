@@ -1,0 +1,24 @@
+name: Generate Snake SVG
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 0 * * *'
+    
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: "Check out the repository"
+        uses: actions/checkout@v3
+      - name: "Generate Snake SVG"
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            snake/snake.svg?palette=github-dark
+      - name: "Publish the SVG"
+        uses: EndBug/add-and-commit@v9
+        with:
+          add: snake/snake.svg
+          message: Update Snake SVG
