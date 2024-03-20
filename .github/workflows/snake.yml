@@ -24,7 +24,7 @@ jobs:
           passphrase: ""
           git_user_signingkey: true
           git_commit_gpgsign: true
-      - name: "Publish the SVG"
+      - name: Publish the SVG
         run: |
           git add .
           git commit -S -m "Update Snake SVG"
