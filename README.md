@@ -45,7 +45,7 @@ class ProfileInfo:
     <br>
     <p align="center">
         <img width="300px" height="120px" src="https://github-readme-stats.vercel.app/api?username=piotr25691&show_icons=true&theme=dracula"></img>
-        <img width="300px" height="120px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=piotr25691&layout=compact&theme=dracula"></img>
+        <img width="300px" height="120px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=piotr25691&layout=compact&theme=dracula&hide=lua,xslt"></img>
     </p>
     <p align="center">
         <img width="300px" height="120px" src="https://github-readme-streak-stats.herokuapp.com/?user=piotr25691&theme=dracula"></img>
