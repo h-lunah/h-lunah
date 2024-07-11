@@ -28,6 +28,8 @@ class ProfileInfo:
 </p>
 <br>
 <details>
+    <summary><h2>About Me</h2></summary>
+    <details>
     <summary>Languages I Use</summary>
     <br>
     <p align="center">
@@ -38,21 +40,7 @@ class ProfileInfo:
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/ProgrammingLanguages/javascript.svg" height="30" width="40"/>
         <p align="center">*I don't actively code in this language, rudimentary editing only</p>
     </p>
-</details>
-<br>
-<details>
-    <summary>My GitHub Stats</summary>
-    <br>
-    <p align="center">
-        <img width="300px" height="120px" src="https://github-readme-stats.vercel.app/api?username=piotr25691&show_icons=true&theme=dracula"></img>
-        <img width="300px" height="120px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=piotr25691&layout=compact&theme=dracula&hide=lua,xslt"></img>
-    </p>
-    <p align="center">
-        <img width="300px" height="120px" src="https://github-readme-streak-stats.herokuapp.com/?user=piotr25691&theme=dracula"></img>
-    </p>
-</details>
-<br>
-<details>
+    <details>
     <summary>My Social Media</summary>
     <br>
     <p align="center">
@@ -61,9 +49,7 @@ class ProfileInfo:
         <a href="https://dsc.gg/lunahub" target="blank"><img align="center" src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a69f118df70ad7828d4_icon_clyde_blurple_RGB.svg" height="30" width="40" /></a>
     </p>
     <br>
-</details>
-<br>
-<details>
+    <details>
     <summary>Discord Activity</summary>
     <p align="center">
         <a href="https://discord.com/users/603635602809946113">
@@ -71,9 +57,26 @@ class ProfileInfo:
         </a>
     </p>
 </details>
+</details>
+</details>
+</details>
+<details>
+    <summary><h2>My GitHub Stats</h2></summary><br>
+    <details>
+    <summary>General Stats</summary>
+    <br>
+    <p align="center">
+        <img width="300px" height="120px" src="https://github-readme-stats.vercel.app/api?username=piotr25691&show_icons=true&theme=dracula"></img>
+        <img width="300px" height="120px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=piotr25691&layout=compact&theme=dracula&hide=lua,xslt"></img>
+    </p>
+    <p align="center">
+        <img width="300px" height="120px" src="https://github-readme-streak-stats.herokuapp.com/?user=piotr25691&theme=dracula"></img>
+    </p>
+    <details>
+    <summary>Activity Graph</summary>
+    <img src="https://raw.githubusercontent.com/piotr25691/piotr25691/main/snake/snake.svg"></img>
+</details>
+</details>
+</details>
 
-​
----
-
-<img src="https://raw.githubusercontent.com/piotr25691/piotr25691/main/snake/snake.svg"></img>
 <sub><sup><i>Be aware that this GitHub username doesn't reflect my actual identity profile name, Luna.</i><sub><sup>
