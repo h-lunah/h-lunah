@@ -72,7 +72,7 @@ class ProfileInfo:
     </p>
 </details>
 
-&zwsp;
+​
 ---
 
 <img src="https://raw.githubusercontent.com/piotr25691/piotr25691/main/snake/snake.svg"></img>
