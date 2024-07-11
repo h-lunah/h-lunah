@@ -71,6 +71,8 @@ class ProfileInfo:
         </a>
     </p>
 </details>
+
 ---
+
 <img src="https://raw.githubusercontent.com/piotr25691/piotr25691/main/snake/snake.svg"></img>
 <sub><sup><i>Be aware that this GitHub username doesn't reflect my actual identity profile name, Luna.</i><sub><sup>
