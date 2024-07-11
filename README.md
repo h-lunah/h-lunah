@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?color=%23A384FF&center=true&lines=Hi+there!+Welcome+to+my+profile!">
+    <img src="https://readme-typing-svg.herokuapp.com?color=%23A384FF&center=true&lines=Hiya,+welcome+to+my+profile!">
 </p>
 
 ```py
@@ -11,10 +11,10 @@ class ProfileInfo:
         self.hobby = ["Coding", "Development"]
         self.discord = "@illun4h"
         self.mainlang = "Python"
-        self.nicks = ["luna", "lunah", "lunar", "lun4h", "lun4r", "lun4"]  # any capitalization, not just lowercase
+        self.nicks = ["luna", "lunah", "lunar"]
         
     def site():
-        return "https://lunah.online"
+        return "https://lunah.site"
         
     def project():
         return "https://lunah.is-a.dev"
@@ -36,7 +36,7 @@ class ProfileInfo:
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/FrontendDevelopment/html.svg" height="30" width="40"/>
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/FrontendDevelopment/css.svg" height="30" width="40"/>
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/ProgrammingLanguages/javascript.svg" height="30" width="40"/>
-        <p align="center">*StepMania themes only</p>
+        <p align="center">*I don't actively code in this language, rudimentary editing only</p>
     </p>
 </details>
 <br>
@@ -71,6 +71,6 @@ class ProfileInfo:
         </a>
     </p>
 </details>
-
+---
 <img src="https://raw.githubusercontent.com/piotr25691/piotr25691/main/snake/snake.svg"></img>
 <sub><sup><i>Be aware that this GitHub username doesn't reflect my actual identity profile name, Luna.</i><sub><sup>
