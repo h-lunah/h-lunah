@@ -27,8 +27,9 @@ class ProfileInfo:
     </kbd>
 </p>
 <br>
+    <p>Expand to see details about me.</p>
 <details>
-    <summary><h2>About Me</h2></summary>
+    <summary>&nbsp;</summary>
     <details>
     <summary>Languages I Use</summary>
     <br>
@@ -61,7 +62,7 @@ class ProfileInfo:
 </details>
 </details>
 <details>
-    <summary><h2>My GitHub Stats</h2></summary><br>
+    <summary>&nbsp;</summary><br>
     <details>
     <summary>General Stats</summary>
     <br>
