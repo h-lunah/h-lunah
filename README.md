@@ -9,7 +9,7 @@ class ProfileInfo:
         self.age = 21
         self.location = "Poland"
         self.hobby = ["Coding", "Development"]
-        self.discord = "@illun4h"
+        self.discord = "@b4.lunah"
         self.mainlang = "Python"
         self.nicks = ["luna", "lunah", "lunar"]
         
