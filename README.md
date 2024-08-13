@@ -6,7 +6,7 @@
 class ProfileInfo:
     def __init__(self):
         self.name = "Piotr"
-        self.age = 21
+        self.age = 22
         self.location = "Poland"
         self.hobby = ["Coding", "Development"]
         self.discord = "@b4.lunah"
