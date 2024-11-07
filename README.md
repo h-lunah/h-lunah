@@ -2,22 +2,25 @@
     <img src="https://readme-typing-svg.herokuapp.com?color=%23A384FF&center=true&lines=Hiya,+welcome+to+my+profile!">
 </p>
 
-```py
-class ProfileInfo:
-    def __init__(self):
-        self.name = "Piotr"
-        self.age = 22
-        self.location = "Poland"
-        self.hobby = ["Coding", "Development"]
-        self.discord = "@b4.lunah"
-        self.mainlang = "Python"
-        self.nicks = ["luna", "lunah", "lunar"]
+```js
+class ProfileInfo {
+    constructor() {
+        this.name = "Piotr";
+        this.age = 22;
+        this.location = "Poland";
+        this.hobby = ["Coding", "Development"];
+        this.discord = "@b4.lunah";
+        this.mainlang = "Python";
+        this.nicks = ["luna", "lunah", "lunar"];
+    }    
+    site() {
+        return "https://lunah.site";
+    }
         
-    def site():
-        return "https://lunah.site"
-        
-    def project():
-        return "https://lunah.is-a.dev"
+    project() {
+        return "https://lunah.is-a.dev";
+    }
+}
 ```
 
 <br>
