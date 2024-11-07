@@ -83,4 +83,4 @@ class ProfileInfo {
 </details>
 </details>
 
-<sub><sup><i>Be aware that this GitHub username doesn't reflect my actual identity profile name, Luna.</i><sub><sup>
+<sub><sup><i>The letter H in my username signifies I'm a proud member of the H community.</i><sub><sup>
