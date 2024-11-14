@@ -74,7 +74,7 @@ class ProfileInfo {
         <img width="300px" height="120px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=h-lunah&layout=compact&theme=dracula"></img>
     </p>
     <p align="center">
-        <img width="300px" height="120px" src="https://github-readme-streak-stats.herokuapp.com/?user=piotr25691&theme=dracula"></img>
+        <img width="300px" height="120px" src="https://github-readme-streak-stats.herokuapp.com/?user=h-lunah&theme=dracula"></img>
     </p>
     <details>
     <summary>Activity Graph</summary>
