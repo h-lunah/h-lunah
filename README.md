@@ -78,7 +78,7 @@ class ProfileInfo {
     </p>
     <details>
     <summary>Activity Graph</summary>
-    <img src="https://raw.githubusercontent.com/piotr25691/piotr25691/main/snake/snake.svg"></img>
+    <img src="https://raw.githubusercontent.com/h-lunah/h-lunah/main/snake/snake.svg"></img>
 </details>
 </details>
 </details>
