@@ -38,11 +38,11 @@ class ProfileInfo {
     <br>
     <p align="center">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/ProgrammingLanguages/python.svg" height="30" width="40"/>
-        <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg" height="30" width="40"/>*
+        <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg" height="30" width="40"/>
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/FrontendDevelopment/html.svg" height="30" width="40"/>
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/FrontendDevelopment/css.svg" height="30" width="40"/>
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/ProgrammingLanguages/javascript.svg" height="30" width="40"/>
-        <p align="center">*I don't actively code in this language, rudimentary editing only</p>
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/ProgrammingLanguages/typescript.svg" height="30" width="40"/>
     </p>
     <details>
     <summary>My Social Media</summary>
