@@ -12,7 +12,8 @@ class ProfileInfo {
         this.discord = "@b4.lunah";
         this.mainlang = "Python";
         this.nicks = ["luna", "lunah", "lunar"];
-    }    
+    }
+
     site() {
         return "https://lunah.site";
     }
