@@ -6,7 +6,7 @@
 class ProfileInfo {
     constructor() {
         this.name = "Piotr";
-        this.age = 22;
+        this.age = 23;
         this.location = "Poland";
         this.hobby = ["Coding", "Development"];
         this.discord = "@b4.lunah";
