@@ -27,7 +27,7 @@ class ProfileInfo {
 <br>
 <p align="center">
     <kbd>
-        <img src="https://i.imgur.com/X2mUIut.gif"></img>
+      <img src="https://github-profile-trophy.vercel.app/?username=h-lunah&theme=onedark" alt="My trophies"></img>
     </kbd>
 </p>
 <br>
